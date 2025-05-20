@@ -71,7 +71,6 @@ flutter run
 
 ## 🔐 Security Notes
 
-- Do not commit sensitive files like `google-services.json`, `GoogleService-Info.plist`, or `.env` to public repositories.
 - Make sure your Firebase Firestore/Storage rules are secure for production use.
 
 ## 📄 License
