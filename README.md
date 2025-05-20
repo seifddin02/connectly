@@ -16,22 +16,22 @@ Connectly is a cross-platform social media application built with Flutter and Fi
 
 
 ### 🏠 Wall
-![Wall](images/wall.jpg)
+<img src="images/wall.jpg" alt="Wall" width="300"/>
 
 ### 🔐 Login
-![Login](images/login.jpg)
+<img src="images/login.jpg" alt="Login" width="300"/>
 
 ### 🆕 Signup
-![Signup](images/signup.jpg)
+<img src="images/signup.jpg" alt="Signup" width="300"/>
 
 ### 💬 Messages
-![Messages](images/messages.jpg)
+<img src="images/messages.jpg" alt="Messages" width="300"/>
 
 ### 🚪 Logout
-![Logout](images/logout.jpg)
+<img src="images/logout.jpg" alt="Logout" width="300"/>
 
 ### 🖼️ Drawer
-![1](images/1.jpg)
+<img src="images/1.jpg" alt="Misc" width="300"/>
 
 ## 🚀 Getting Started
 
