@@ -13,21 +13,17 @@ Connectly is a cross-platform social media application built with Flutter and Fi
 ## 📸 Screenshots
 
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; overflow-x: auto;">
 
-  <img src="images/wall.jpg" alt="Wall" width="300" style="flex: 1; max-width: 300px;"/>
-  <img src="images/login.jpg" alt="Login" width="300" style="flex: 1; max-width: 300px;"/>
-  <img src="images/signup.jpg" alt="Signup" width="300" style="flex: 1; max-width: 300px;"/>
-
-</div>
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-
-  <img src="images/messages.jpg" alt="Messages" width="300" style="flex: 1; max-width: 300px;"/>
-  <img src="images/logout.jpg" alt="Logout" width="300" style="flex: 1; max-width: 300px;"/>
-  <img src="images/1.jpg" alt="Misc" width="300" style="flex: 1; max-width: 300px;"/>
+  <img src="images/wall.jpg" alt="Wall" width="300" />
+  <img src="images/login.jpg" alt="Login" width="300" />
+  <img src="images/signup.jpg" alt="Signup" width="300" />
+  <img src="images/messages.jpg" alt="Messages" width="300" />
+  <img src="images/logout.jpg" alt="Logout" width="300" />
+  <img src="images/1.jpg" alt="Misc" width="300" />
 
 </div>
+
 ## 🚀 Getting Started
 
 ### Prerequisites
